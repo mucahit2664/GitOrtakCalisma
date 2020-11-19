@@ -6,6 +6,7 @@ public class OrtakCalisma {
 		System.out.println("09:43 - Selamlar");
 		System.out.println("20:40 tuba");
 		System.out.println("22:40 - Abdullah");
+		System.out.println("20:50 - Tuba");
 	}
 
 }
